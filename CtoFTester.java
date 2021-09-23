@@ -1,3 +1,3 @@
-public class Demo{
+public class CtoFTester{
   //this is a test lol
 }
